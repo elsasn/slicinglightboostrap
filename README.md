@@ -1,2 +1,2 @@
 # slicinglightboostrap
-Slcing Light Boostrap And Integration With Codeigniter. 
+Slicing Template Dashboard Light Boostrap Menggunakan Codeigniter. 
